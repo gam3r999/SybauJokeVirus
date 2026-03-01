@@ -106,7 +106,7 @@ These effects draw directly onto the **real Windows desktop DC** via `ctypes`/Wi
 
 **Don't have a `byebyte.wav`?** The script auto-generates a glitchy bytebeat fallback so it still works without one.
 
-**Want a real byebyte?** Generate one free at https://bytebeat.bitforever.de/ and export as WAV, or convert any audio with [Audacity](https://www.audacityteam.org/) or VLC.
+**Want a real byebyte?** Generate one free at https://dollchan.net/bytebeat/ and export as WAV, or convert any audio with [Audacity](https://www.audacityteam.org/) or VLC.
 
 ---
 
